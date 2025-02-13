@@ -39,7 +39,7 @@ Housing prices are influenced by various factors, and understanding these factor
 1. Clone this repository:
    ```bash
    ggh repo clone ShashankGoutam/HousePrices_Vs_HouseSizes
-   cd predict-home-prices
+   
 2. Install the required dependencies:
    
   pip install pandas 
