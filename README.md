@@ -38,7 +38,7 @@ Housing prices are influenced by various factors, and understanding these factor
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ShashankGoutam/predict-home-prices.git
+   ggh repo clone ShashankGoutam/HousePrices_Vs_HouseSizes
    cd predict-home-prices
 2. Install the required dependencies:
    
